@@ -2,7 +2,7 @@
 RandMailnPassGen is a simple random password and placeholder email address generator. 
 This software was made to allow people who don't want to register to unsafe websites using their email address, but also for those who want a password generator. 
 
-**/!\ Attention! /!\**
+**/!\ Attention! /!\ **
 Note that the generated email addresses don't actually work, they are just placeholders. 
 For a better experience it is advised to open the software as a full-screen window.
 
